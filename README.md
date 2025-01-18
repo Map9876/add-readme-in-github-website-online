@@ -219,3 +219,5 @@ error: remote origin already exists.
 ~/k $ git remote set-url origin git@github.com/Map9876/add-readme-in-github-website-online.git
 
 ```
+
+ "修改文件后，再次提交需要git add .然后git commit -m"
